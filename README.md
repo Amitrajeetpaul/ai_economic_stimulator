@@ -2,17 +2,27 @@
 
 ![Simulator Terminal](https://github.com/Amitrajeetpaul/ai_economic_stimulator/blob/main/src/assets/preview.png?raw=true)
 
-A high-fidelity, interactive economic stress-testing platform inspired by Gapminder and modern cyber-terminal aesthetics. This application allows users to simulate systemic financial collapses, observe ripple effects across global networks, and analyze data through advanced visualizations.
+The **AI Economic Crisis Simulator** is a high-fidelity, interactive platform designed to visualize and analyze the complex, often invisible, ripple effects of systemic financial stress. It provides a strategic sandbox for modeling "Black Swan" events and observing how they cascade through global financial networks.
+
+---
+
+## 🎯 The Problem We Solve
+In a hyper-connected global economy, financial risks are often opaque and unpredictable. A minor shock in one sector can rapidly escalate into a global collapse. Traditional tools often fail to visualize these hidden dependencies.
+
+Our simulator solves this by:
+- **Exposing Hidden Links**: Mapping the intricate connections between banks, corporations, and households.
+- **Predicting Cascades**: Modeling how a localized shock ripples through the entire system.
+- **Quantifying Risk**: Providing real-time "Instability Indices" based on macro-parameter variations.
 
 ---
 
 ## 🌟 Key Features
 
 ### 🖥️ Interactive Visualization Suite
-- **Gapminder Bubble Chart**: Real-time analysis of GDP vs. Inflation with sector-specific risk weighting.
-- **Dynamic Force Graph**: A 2D network visualization of the global financial system, showing inter-dependencies between banks, corporations, and households.
-- **Mountain Charts (AreaCharts)**: Temporal trend analysis for primary economic indicators compared against global benchmarks.
-- **Race Rank Chart**: Visualizing sector survival and impact levels during active crisis simulations.
+- **Dynamic Macro-Indicator Analysis**: Real-time correlation of GDP, inflation, and sector-specific risk weighting.
+- **Network Health Mapping**: A force-directed visualization of the global financial skeleton, highlighting distressed nodes in real-time.
+- **Systemic Trend Projection**: Temporal analysis of primary economic indicators compared against historical and global benchmarks.
+- **Sector Survival Analytics**: Visualizing which economic sectors are most resilient during active crisis simulations.
 
 ### 🧪 Simulation Engines
 - **Scenario Builder**: Precision control over global interest rates and default correlations with real-time instability index projections.
